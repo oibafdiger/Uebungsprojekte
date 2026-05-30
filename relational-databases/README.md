@@ -1,6 +1,41 @@
-# Meine ersten Relationale Datenbanken-Übungsprojekte
+# Relationale Datenbanken – Übungen & Projekte
 
-Dieses Repository sammelt meine ersten praktischen Relationale Datenbanken-Projekte – von einfachen Skripten bis hin zu kleinen Anwendungen.  
-Hier übe ich, was ich gelernt habe, und baue Schritt für Schritt mein Verständnis auf.
+Übungsaufgaben und kleine Projekte zum Thema relationale Datenbanken,  
+erarbeitet im Rahmen des freeCodeCamp-Kurses *Relational Database*.
 
-> **Hinweis**: Einige Projekte stammen aus dem freeCodeCamp-Curriculum und wurden als Übung umgesetzt.
+---
+
+## Inhalte
+
+<!-- Passe die Liste unten an das an, was tatsächlich in deinem Ordner liegt -->
+
+| Datei / Ordner | Beschreibung |
+|---|---|
+| `[Dateiname]` | [Kurze Beschreibung, z.B. "Datenbankschema für eine Bibliotheksverwaltung"] |
+| `[Dateiname]` | [z.B. "JOIN-Übungen mit mehreren Tabellen"] |
+| `[Dateiname]` | [z.B. "Aggregatfunktionen: GROUP BY, HAVING, COUNT"] |
+
+---
+
+## Behandelte SQL-Konzepte
+
+- **DDL:** CREATE TABLE, ALTER TABLE, Constraints (PRIMARY KEY, FOREIGN KEY, NOT NULL)
+- **DML:** SELECT, INSERT, UPDATE, DELETE
+- **Abfragen:** JOINs (INNER, LEFT, RIGHT), Subqueries, CTEs
+- **Aggregation:** GROUP BY, HAVING, COUNT, SUM, AVG
+- **Normalisierung:** 1NF, 2NF, 3NF
+
+<!-- Entferne Punkte, die du noch nicht behandelt hast -->
+
+---
+
+## Verwendete Technologien
+
+- PostgreSQL / SQLite
+- Bash (für freeCodeCamp-Umgebung)
+
+---
+
+## Kursquelle
+
+[freeCodeCamp – Relational Database Certification](https://www.freecodecamp.org/learn/relational-database/)
