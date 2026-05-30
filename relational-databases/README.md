@@ -11,7 +11,7 @@ erarbeitet im Rahmen des freeCodeCamp-Kurses *Relational Database*.
 
 | Datei / Ordner | Beschreibung |
 |---|---|
-| `[Dateiname]` | [Kurze Beschreibung, z.B. "Datenbankschema für eine Bibliotheksverwaltung"] |
+| `SQL-Bash-git` | [Kurze Beschreibung, z.B. "Datenbankschema für eine Bibliotheksverwaltung"] |
 | `[Dateiname]` | [z.B. "JOIN-Übungen mit mehreren Tabellen"] |
 | `[Dateiname]` | [z.B. "Aggregatfunktionen: GROUP BY, HAVING, COUNT"] |
 
