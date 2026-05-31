@@ -14,7 +14,7 @@ Behandelte Themen:
 - Datenbankdesign und Normalisierung
 - SQL-Abfragen: SELECT, JOIN, Subqueries, Aggregatfunktionen
 - Tabellenbeziehungen und Fremdschlüssel
-- Praktische Übungsdatenbanken mit PostgreSQL / SQLite
+- Praktische Übungsdatenbanken mit PostgreSQL
 
 → Details im [README des Ordners](./relational-databases/README.md)
 
