@@ -31,7 +31,7 @@ erarbeitet im Rahmen des freeCodeCamp-Kurses *Relational Database*.
 
 ## Verwendete Technologien
 
-- PostgreSQL / SQLite
+- PostgreSQL
 - Bash (für freeCodeCamp-Umgebung)
 
 ---
