@@ -11,9 +11,9 @@ erarbeitet im Rahmen des freeCodeCamp-Kurses *Relational Database*.
 
 | Datei / Ordner | Beschreibung |
 |---|---|
-| `SQL-Bash-git` | [Sammlung an kleinen einfachen Projekt mit SQL und Bash] |
-| `SQL-and-Bash` | [Sammlung an Projekt mit SQL und Bash] |
-| `SQL-and-PostgreSQL` | [Projekt mit advanced SQL queries und auf Postgres Basis] |
+| `SQL-Bash-git` | Sammlung an kleinen einfachen Projekt mit SQL und Bash |
+| `SQL-and-Bash` | Sammlung an Projekt mit SQL und Bash |
+| `SQL-and-PostgreSQL` | Projekt mit advanced SQL queries und auf Postgres Basis |
 
 ---
 
